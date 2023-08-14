@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7123783110465f2419df3d3b387f4298
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circle: {fileID: 7826214551798933940, guid: 791a9d2525cae7341822ac6c65e8b7bb,
+      type: 3}
+  - hpPickUp: {fileID: 3061226719619464460, guid: e37d856e3806126428d01bbbc13be75a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
